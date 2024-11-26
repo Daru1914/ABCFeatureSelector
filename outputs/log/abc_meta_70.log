@@ -1,0 +1,532 @@
+Working on b'Lightning-AI_lightning-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.025093198356572963.
+Error history: [array(0.11704319), array(0.11704319), array(0.11704319), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932), array(0.0250932)].
+                    Best solution: [1 1 0 0 0].
+Selected subset: ['CLOC', 'LLOC'].
+
+Reduction to 3 features.
+Best error: 0.001277726362188923.
+Error history: [array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773), array(0.00127773)].
+                    Best solution: [0 1 1 0 1].
+Selected subset: ['LLOC', 'NOI', 'Coupling Metric Rules'].
+
+Working on b'explosion_spaCy-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.005436942060367826.
+Error history: [array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694), array(0.00543694)].
+                    Best solution: [1 0 0 1 0].
+Selected subset: ['CLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.0015306207146688437.
+Error history: [array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062), array(0.00153062)].
+                    Best solution: [1 1 0 0 1].
+Selected subset: ['CLOC', 'LLOC', 'Coupling Metric Rules'].
+
+Working on b'gradio-app_gradio-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.004143158020150737.
+Error history: [array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316), array(0.00414316)].
+                    Best solution: [0 0 1 0 1].
+Selected subset: ['NOI', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.0002004574428277141.
+Error history: [array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046), array(0.00020046)].
+                    Best solution: [1 0 0 1 1].
+Selected subset: ['CLOC', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'streamlit_streamlit-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.0075720314777022605.
+Error history: [array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203), array(0.00757203)].
+                    Best solution: [1 1 0 0 0].
+Selected subset: ['CLOC', 'LLOC'].
+
+Reduction to 3 features.
+Best error: 0.0007381116892999614.
+Error history: [array(0.00608933), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811), array(0.00073811)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'open-mmlab_mmdetection-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.0033953944625243564.
+Error history: [array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539), array(0.00339539)].
+                    Best solution: [0 1 0 0 1].
+Selected subset: ['LLOC', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 8.169887268233785e-05.
+Error history: [array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05), array(8.16988727e-05)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'oobabooga_text-generation-webui-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.026456315611950554.
+Error history: [array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632), array(0.02645632)].
+                    Best solution: [0 1 0 1 0].
+Selected subset: ['LLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.0011784361752317765.
+Error history: [array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844), array(0.00117844)].
+                    Best solution: [1 1 0 0 1].
+Selected subset: ['CLOC', 'LLOC', 'Coupling Metric Rules'].
+
+Working on b'OpenBB-finance_OpenBBTerminal-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.001615907577585257.
+Error history: [array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591), array(0.00161591)].
+                    Best solution: [1 0 0 1 0].
+Selected subset: ['CLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.00021166404858060454.
+Error history: [array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166), array(0.00021166)].
+                    Best solution: [0 1 1 1 0].
+Selected subset: ['LLOC', 'NOI', 'NUMPAR'].
+
+Working on b'freqtrade_freqtrade-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.00412473983507087.
+Error history: [array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474), array(0.00412474)].
+                    Best solution: [1 0 1 0 0].
+Selected subset: ['CLOC', 'NOI'].
+
+Reduction to 3 features.
+Best error: 0.000404996754020634.
+Error history: [array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405), array(0.000405)].
+                    Best solution: [0 1 0 1 1].
+Selected subset: ['LLOC', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'python-poetry_poetry-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.008836857520647794.
+Error history: [array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686), array(0.00883686)].
+                    Best solution: [1 1 0 0 0].
+Selected subset: ['CLOC', 'LLOC'].
+
+Reduction to 3 features.
+Best error: 0.0009163503276699044.
+Error history: [array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635), array(0.00091635)].
+                    Best solution: [0 1 1 1 0].
+Selected subset: ['LLOC', 'NOI', 'NUMPAR'].
+
+Working on b'google_jax-Method.csv'_1...
+
+Reduction to 2 features.
+Best error: 0.015363236852182527.
+Error history: [array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324), array(0.01536324)].
+                    Best solution: [0 1 1 0 0].
+Selected subset: ['LLOC', 'NOI'].
+
+Reduction to 3 features.
+Best error: 0.002767853200668684.
+Error history: [array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785), array(0.00276785)].
+                    Best solution: [1 0 1 0 1].
+Selected subset: ['CLOC', 'NOI', 'Coupling Metric Rules'].
+
+Working on b'google_jax-Method.csv'_2...
+
+Reduction to 2 features.
+Best error: 0.010301403423026129.
+Error history: [array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014), array(0.0103014)].
+                    Best solution: [1 0 0 1 0].
+Selected subset: ['CLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.001267864742202823.
+Error history: [array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786), array(0.00126786)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'huggingface_pytorch-image-models-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.009968566032755595.
+Error history: [array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857), array(0.00996857)].
+                    Best solution: [1 0 1 0 0].
+Selected subset: ['CLOC', 'NOI'].
+
+Reduction to 3 features.
+Best error: 0.0011740221145151227.
+Error history: [array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402), array(0.00117402)].
+                    Best solution: [0 1 0 1 1].
+Selected subset: ['LLOC', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'matplotlib_matplotlib-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.0065395523898556214.
+Error history: [array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955), array(0.00653955)].
+                    Best solution: [1 1 0 0 0].
+Selected subset: ['CLOC', 'LLOC'].
+
+Reduction to 3 features.
+Best error: 0.0008113410433730652.
+Error history: [array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134), array(0.00081134)].
+                    Best solution: [1 1 1 0 0].
+Selected subset: ['CLOC', 'LLOC', 'NOI'].
+
+Working on b'mindsdb_mindsdb-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.004365013189795509.
+Error history: [array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501), array(0.00436501)].
+                    Best solution: [0 0 0 1 1].
+Selected subset: ['NUMPAR', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.0007838762662207743.
+Error history: [array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388), array(0.00078388)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'encode_django-rest-framework-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.01965270441259148.
+Error history: [array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527), array(0.0196527)].
+                    Best solution: [0 0 1 1 0].
+Selected subset: ['NOI', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.0015348528643967679.
+Error history: [array(0.01568088), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485), array(0.00153485)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'sqlmapproject_sqlmap-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.011344504033815667.
+Error history: [array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445), array(0.0113445)].
+                    Best solution: [1 0 0 0 1].
+Selected subset: ['CLOC', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.0012887457583820232.
+Error history: [array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875), array(0.00128875)].
+                    Best solution: [0 1 0 1 1].
+Selected subset: ['LLOC', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'microsoft_DeepSpeed-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.020267156280857377.
+Error history: [array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716), array(0.02026716)].
+                    Best solution: [1 0 0 0 1].
+Selected subset: ['CLOC', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.0015166465267588323.
+Error history: [array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665), array(0.00151665)].
+                    Best solution: [0 1 1 1 0].
+Selected subset: ['LLOC', 'NOI', 'NUMPAR'].
+
+Working on b'geekan_MetaGPT-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.01373254936579588.
+Error history: [array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255), array(0.01373255)].
+                    Best solution: [0 0 1 1 0].
+Selected subset: ['NOI', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.0015961282014691858.
+Error history: [array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613), array(0.00159613)].
+                    Best solution: [1 0 0 1 1].
+Selected subset: ['CLOC', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'facebookresearch_detectron2-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.005611255172610863.
+Error history: [array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126), array(0.00561126)].
+                    Best solution: [0 1 0 1 0].
+Selected subset: ['LLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.0005670716939652147.
+Error history: [array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707), array(0.00056707)].
+                    Best solution: [0 1 0 1 1].
+Selected subset: ['LLOC', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'ray-project_ray-Method.csv'_1...
+
+Reduction to 2 features.
+Best error: 0.006396071227526224.
+Error history: [array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607), array(0.00639607)].
+                    Best solution: [0 0 0 1 1].
+Selected subset: ['NUMPAR', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.0006343136944983453.
+Error history: [array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431), array(0.00063431)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'ray-project_ray-Method.csv'_2...
+
+Reduction to 2 features.
+Best error: 0.003258203972547389.
+Error history: [array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582), array(0.0032582)].
+                    Best solution: [0 0 1 0 1].
+Selected subset: ['NOI', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.0004163384270651938.
+Error history: [array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634), array(0.00041634)].
+                    Best solution: [0 0 1 1 1].
+Selected subset: ['NOI', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'ray-project_ray-Method.csv'_3...
+
+Reduction to 2 features.
+Best error: 0.0035467588887139736.
+Error history: [array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676), array(0.00354676)].
+                    Best solution: [1 0 0 1 0].
+Selected subset: ['CLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.000229732532395664.
+Error history: [array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973), array(0.00022973)].
+                    Best solution: [1 1 1 0 0].
+Selected subset: ['CLOC', 'LLOC', 'NOI'].
+
+Working on b'ray-project_ray-Method.csv'_4...
+
+Reduction to 2 features.
+Best error: 0.0031711332082161184.
+Error history: [array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113), array(0.00317113)].
+                    Best solution: [0 1 0 1 0].
+Selected subset: ['LLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.0003163366295587467.
+Error history: [array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634), array(0.00031634)].
+                    Best solution: [1 0 1 1 0].
+Selected subset: ['CLOC', 'NOI', 'NUMPAR'].
+
+Working on b'ray-project_ray-Method.csv'_5...
+
+Reduction to 2 features.
+Best error: 0.007655114917469719.
+Error history: [array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511), array(0.00765511)].
+                    Best solution: [1 0 1 0 0].
+Selected subset: ['CLOC', 'NOI'].
+
+Reduction to 3 features.
+Best error: 0.0005913485749195097.
+Error history: [array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135), array(0.00059135)].
+                    Best solution: [0 1 0 1 1].
+Selected subset: ['LLOC', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'ray-project_ray-Method.csv'_6...
+
+Reduction to 2 features.
+Best error: 0.002490872981167355.
+Error history: [array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087), array(0.00249087)].
+                    Best solution: [0 1 0 1 0].
+Selected subset: ['LLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.00023927311711724732.
+Error history: [array(0.00187362), array(0.00187362), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927), array(0.00023927)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'ray-project_ray-Method.csv'_7...
+
+Reduction to 2 features.
+Best error: 0.004172111908175822.
+Error history: [array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211), array(0.00417211)].
+                    Best solution: [0 0 1 1 0].
+Selected subset: ['NOI', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.00030379932717953053.
+Error history: [array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038), array(0.0003038)].
+                    Best solution: [1 0 1 1 0].
+Selected subset: ['CLOC', 'NOI', 'NUMPAR'].
+
+Working on b'ray-project_ray-Method.csv'_8...
+
+Reduction to 2 features.
+Best error: 0.027561244993223714.
+Error history: [array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124), array(0.02756124)].
+                    Best solution: [0 1 0 0 1].
+Selected subset: ['LLOC', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.001999550921964395.
+Error history: [array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955), array(0.00199955)].
+                    Best solution: [0 1 1 1 0].
+Selected subset: ['LLOC', 'NOI', 'NUMPAR'].
+
+Working on b'lm-sys_FastChat-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.007251777660352504.
+Error history: [array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178), array(0.00725178)].
+                    Best solution: [1 0 1 0 0].
+Selected subset: ['CLOC', 'NOI'].
+
+Reduction to 3 features.
+Best error: 0.0005980703915939283.
+Error history: [array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807), array(0.00059807)].
+                    Best solution: [0 1 1 0 1].
+Selected subset: ['LLOC', 'NOI', 'Coupling Metric Rules'].
+
+Working on b'huggingface_diffusers-Method.csv'_1...
+
+Reduction to 2 features.
+Best error: 0.0023129481641696536.
+Error history: [array(0.03846063), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295), array(0.00231295)].
+                    Best solution: [1 1 0 0 0].
+Selected subset: ['CLOC', 'LLOC'].
+
+Reduction to 3 features.
+Best error: 5.5594835751451575e-05.
+Error history: [array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05), array(5.55948358e-05)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'huggingface_diffusers-Method.csv'_2...
+
+Reduction to 2 features.
+Best error: 0.009405642429097076.
+Error history: [array(0.02875487), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564), array(0.00940564)].
+                    Best solution: [1 1 0 0 0].
+Selected subset: ['CLOC', 'LLOC'].
+
+Reduction to 3 features.
+Best error: 0.0007375287640716042.
+Error history: [array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753), array(0.00073753)].
+                    Best solution: [1 1 1 0 0].
+Selected subset: ['CLOC', 'LLOC', 'NOI'].
+
+Working on b'nicolargo_glances-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.009342455679932997.
+Error history: [array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246), array(0.00934246)].
+                    Best solution: [0 1 0 1 0].
+Selected subset: ['LLOC', 'NUMPAR'].
+
+Reduction to 3 features.
+Best error: 0.001767701927448236.
+Error history: [array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677), array(0.0017677)].
+                    Best solution: [1 1 0 0 1].
+Selected subset: ['CLOC', 'LLOC', 'Coupling Metric Rules'].
+
+Working on b'python-telegram-bot_python-telegram-bot-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.007412348783545995.
+Error history: [array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235), array(0.00741235)].
+                    Best solution: [1 1 0 0 0].
+Selected subset: ['CLOC', 'LLOC'].
+
+Reduction to 3 features.
+Best error: 0.00013537928389450833.
+Error history: [array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538), array(0.00013538)].
+                    Best solution: [1 1 0 1 0].
+Selected subset: ['CLOC', 'LLOC', 'NUMPAR'].
+
+Working on b'numpy_numpy-Method.csv'_1...
+
+Reduction to 2 features.
+Best error: 0.010779064722532946.
+Error history: [array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906), array(0.01077906)].
+                    Best solution: [1 0 0 0 1].
+Selected subset: ['CLOC', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.0021887841291294385.
+Error history: [array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878), array(0.00218878)].
+                    Best solution: [1 1 0 0 1].
+Selected subset: ['CLOC', 'LLOC', 'Coupling Metric Rules'].
+
+Working on b'numpy_numpy-Method.csv'_2...
+
+Reduction to 2 features.
+Best error: 0.006218562061887461.
+Error history: [array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856), array(0.00621856)].
+                    Best solution: [1 0 1 0 0].
+Selected subset: ['CLOC', 'NOI'].
+
+Reduction to 3 features.
+Best error: 0.0010731140757446864.
+Error history: [array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311), array(0.00107311)].
+                    Best solution: [1 0 0 1 1].
+Selected subset: ['CLOC', 'NUMPAR', 'Coupling Metric Rules'].
+
+Working on b'geekcomputers_Python-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.009501424335538768.
+Error history: [array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142), array(0.00950142)].
+                    Best solution: [1 0 0 0 1].
+Selected subset: ['CLOC', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.003549893404363732.
+Error history: [array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989), array(0.00354989)].
+                    Best solution: [1 1 0 0 1].
+Selected subset: ['CLOC', 'LLOC', 'Coupling Metric Rules'].
+
+Working on b'pypa_pipenv-Method.csv'_1...
+
+Reduction to 2 features.
+Best error: 0.006072749559550618.
+Error history: [array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275), array(0.00607275)].
+                    Best solution: [1 1 0 0 0].
+Selected subset: ['CLOC', 'LLOC'].
+
+Reduction to 3 features.
+Best error: 0.0008267671273534494.
+Error history: [array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677), array(0.00082677)].
+                    Best solution: [1 1 0 0 1].
+Selected subset: ['CLOC', 'LLOC', 'Coupling Metric Rules'].
+
+Working on b'pypa_pipenv-Method.csv'_2...
+
+Reduction to 2 features.
+Best error: 0.010720372460451884.
+Error history: [array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037), array(0.01072037)].
+                    Best solution: [1 0 1 0 0].
+Selected subset: ['CLOC', 'NOI'].
+
+Reduction to 3 features.
+Best error: 0.0011920729066842838.
+Error history: [array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207), array(0.00119207)].
+                    Best solution: [1 0 1 0 1].
+Selected subset: ['CLOC', 'NOI', 'Coupling Metric Rules'].
+
+Working on b'lllyasviel_ControlNet-Method.csv'...
+
+Reduction to 2 features.
+Best error: 0.008385006074443499.
+Error history: [array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501), array(0.00838501)].
+                    Best solution: [0 0 0 1 1].
+Selected subset: ['NUMPAR', 'Coupling Metric Rules'].
+
+Reduction to 3 features.
+Best error: 0.00033792847828703664.
+Error history: [array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793), array(0.00033793)].
+                    Best solution: [1 1 0 0 1].
+Selected subset: ['CLOC', 'LLOC', 'Coupling Metric Rules'].
+
