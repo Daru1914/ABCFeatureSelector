@@ -7,4 +7,4 @@ Optimization framework for feature selection in Python source code quality asses
 
 # MDisABC diagram
 
-![mdisabc_workflow](https://github.com/user-attachments/assets/6f7f2c2f-ae45-41ed-a38b-2e89cf972280)
+![mdisabc_workflow](https://github.com/user-attachments/assets/72fbf0e9-6398-431f-a650-01f104f5acef)
